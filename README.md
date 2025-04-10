@@ -1,16 +1,9 @@
-# biometrics_authentication
+# Flutter Biometrics Authentication: Fingerprint & Face ID with local_auth
 
-A new Flutter project.
+<br/>
 
-## Getting Started
+🔒 Secure Flutter app with biometrics setting up fingerprint authentication (Android) and Face ID (iOS) using the local_auth package, Covering installation, platform-specific configurations, different authentication cases.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+✅ Install & configure local_auth for Android & iOS <br/>
+✅ Implement biometrics authentication for different scenarios <br/>
+✅ Test fingerprint & Face ID <br/>
