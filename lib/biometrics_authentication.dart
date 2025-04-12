@@ -1,4 +1,4 @@
-import 'package:biometrics_authentication/features/home/home_scree.dart';
+import 'package:biometrics_authentication/home/home_screen.dart';
 import 'package:flutter/material.dart';
 
 class BiometricsAuthentication extends StatelessWidget {
